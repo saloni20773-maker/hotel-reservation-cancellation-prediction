@@ -27,14 +27,15 @@ Hotel reservation cancellations can result in revenue loss, inefficient room uti
 
 ## Technologies Used
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Streamlit
-- Joblib
+-Python
+-Pandas
+-NumPy
+-Scikit-learn
+-Matplotlib
+-Seaborn
+-Streamlit
+-Power BI
+-GitHub
 
 ---
 
@@ -123,6 +124,17 @@ https://hotel-reservation-cancellation-prediction-6rsbf2y9ur8qz8ctuszr.streamlit
 - Optimize room allocation.
 - Support customer retention initiatives.
 - Enable data-driven decision-making.
+
+---
+
+## Power BI Dashboard
+
+An interactive Power BI dashboard was developed to visualize:
+- Booking Cancellation Trends
+- Monthly Booking Analysis
+- Market Segment Distribution
+- Average Room Price
+- Special Requests Analysis
 
 ---
 
